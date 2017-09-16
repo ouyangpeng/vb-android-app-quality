@@ -1,3 +1,13 @@
+
+#参考文档：
+- [提高代码质量－工具篇](https://yq.aliyun.com/articles/93800?t=t1)
+
+  >https://yq.aliyun.com/articles/93800?t=t1
+
+- [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/?spm=5176.100239.blogcont93800.16.NMY4N6)
+
+  >http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/?spm=5176.100239.blogcont93800.16.NMY4N6
+
 # vb-android-app-quality [![Build Status][1]][2]
 
 Sample Android project using Gradle, with basic quality tools set up.
